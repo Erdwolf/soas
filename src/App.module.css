@@ -1,0 +1,32 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 0 2vw;
+}
+
+.heading {
+  margin-bottom: 2em;
+  font-weight: normal;
+  font-size: larger;
+}
+
+.table {
+  display: flex;   
+  flex-direction: column;
+  margin-top: 2em;
+}
+
+.pair {
+  display: flex;
+}
+
+.animal,
+.flower {
+  background: #d1dde9;
+  border: 1px solid black;
+  border-radius: 3px;
+  flex-basis: 200px;
+  margin: 2px;
+  padding: 10px;
+}

@@ -1,0 +1,188 @@
+[
+  {
+    "number": 1,
+    "name": "Bumblebee",
+    "difficulty": "medium",
+    "description": "During the final scoring check how many petals the flower you collected last has and treat all the flowers in the colour assigned to bum- blebee as if they have the same number of petals as this last collected flower. (Ignore their original number of petals.) It is possible that the last flower you collect is the “bumblebee’s flower“. In this case this flower keeps its number of petals for scoring purposes and you will score all your other “bumblebee’s flowers“ according to this one. For all the other animal‘s effects, the “bumblebee‘s flowers“ keep their original number of petals."
+  },
+  {
+    "number": 2,
+    "name": "Hornet",
+    "difficulty": "easy",
+    "description": "Only the player who manages to collect a flower in the colour assigned to the hornet, as the last one, scores two extra points (the “hornet card“ lies in front of him at the end of the game)."
+  },
+  {
+    "number": 3,
+    "name": "Bee",
+    "difficulty": "hard",
+    "description": "During the final scoring ignore the number of petals of flowers in the colour assigned to the bee. Instead, score them as if they had the same number of petals as flowers they are paired with. Flowers are considered paired when a lace passes between them when looking on the game board from the top. (Connection from the bottom of the game board does not have any effect.) There can be an odd flower (not paired with any other flower). In such a case score it as usual according to its petals. If you pair two flowers in the colour assigned to the bee, for scoring purpo- ses, treat them as if they have the number of petals of the other flower, it means they basically swap their number of petals. For all the other animal‘s effects, the “bee‘s flowers“ keep their original number of petals."
+  },
+  {
+    "number": 4,
+    "name": "Peacock Butterfly",
+    "difficulty": "medium",
+    "description": "When you collect a flower in the colour assigned to the peacock butterfly, choose a colour none of your opponents can collect during their next turn. This effect lasts until your next turn.  You will be the first one who can collect this colour. You can forbid the “peacock butterfly’s colour” too and by doing it, make sure that nobody collects these flowers in their next turn and thus can‘t forbid you anything. It is possible that two players in a row collect a flower in the colour assigned to the peacock butterfly and decide to forbid the same colour. In this case the ban lasts until the second player’s turn. Therefore, it is forbidden for the first player during his next turn. If playing with more players one of them can be forbidden to use more colours at once if more players before him collected a flower in the colour assigned to the peacock butterfly and chose different colours. If you could collect only the forbidden flower in your turn, you have no other choice than to skip your turn and possibly collect the flower in your next turn, unless somebody else collected it or forbade it again in the meantime."
+  },
+  {
+    "number": 5,
+    "name": "Large white",
+    "difficulty": "medium",
+    "description": "A large white can remove all flowers of a certain colour out of the game. When you collect a flower in the colour assigned to the large white, choose a colour which will be forbidden starting from your next turn (inclu- ding) until the end of the game. It means that your opponents can still collect it in their next turn, but in your next turn the colour will be already forbidden to you. You can also forbid the colour of the “large white’s flower”. In this case your opponents can still collect it in their next turn and forbid another colour before the “large whi- te’s flowers” are definitely forbidden. After collecting this flower you can also choose a colour which has already been forbidden and in this way avoid removing another colour from the game. Forbidding a colour does not affect flowers which have been already taken."
+  },
+  {
+    "number": 6,
+    "name": "Swallowtail",
+    "difficulty": "hard",
+    "description": "By  collecting  a  flower  in  the  colour  assigned  to the  swallowtail,  you  temporarily  forbid  to  collect  flowers  with  the  same  num- ber of petals as the just collected “swallowtail‘s flower“. Flowers are forbidden for all  players  regardless  of  the  fact  who  collected  the  flower. This  ban  is  valid  until somebody  else  collects  another “swallowtail’s  flower”.  From  this  time,  all  flowers with the same number of petals as the newly collected “swallowtail‘s flower“ are forbidden. In exceptional cases, due to another animal‘s effect, somebody can pull out  the “swallowtail‘s  flower”  which  was  collected  the  last.  Despite  that,  flowers with a corresponding number of petals remain forbidden, even though this flower is not collected any more. In a 4-player game there can be two different laces in each flower. However, if somebody collects a “swallowtail’s flower”, nobody else can collect this particular flower as its number of petals is forbidden until another “swallowtail’s flower” is collected."
+  },
+  {
+    "number": 7,
+    "name": "Black arches",
+    "difficulty": "medium",
+    "description": "When you collect a flower in the colour assigned to the black arches, you restrict yourself to collect only flowers with an even number of petals, until another player collects a “black arche’s flower”. In this case this player takes the “black arche’s card” from you and puts it in front of him. Now it is him who can collect only the flowers with an even number of petals."
+  },
+  {
+    "number": 8,
+    "name": "Silk moth",
+    "difficulty": "medium",
+    "description": "When you collect a “silk moth’s flower”, you can only collect colours from which you already have at least one flower. Therefore, you will probably want to collect it only after you have at least one flower from most of the remaining colours."
+  },
+  {
+    "number": 9,
+    "name": "Clothes moth",
+    "difficulty": "medium",
+    "description": "By collecting a flower in the colour assigned to the clothes moth, you forbid yourself to collect flowers with the same number of petals as this one has. If you have collected more “clothes moth’s flowers” you may have more amounts of petals forbidden."
+  },
+  {
+    "number": 10,
+    "name": "Garden tiger",
+    "difficulty": "easy",
+    "description": "Put simply, each player can only collect one flower assigned to the garden tiger. It is possible that you will have to pull the lace out off this flower due to some animal’s effect. In this case you can collect a “garden tiger’s flower” once again."
+  },
+  {
+    "number": 11,
+    "name": "Death’s-head hawkmoth",
+    "difficulty": "easy",
+    "description": "If you collect a flower in the colour assigned to the death’s-head hawkmoth, you stop playing regardless of the remaining length of your lace. This is why you will usually avoid the “death’s-head hawkmoth’s flower” until the end and collect it as your last flower. It is possible that you will have to pull the lace out of the “death’s-head hawkmoth flower” due to another animal‘s effect. In this case continue playing as usual."
+  },
+  {
+    "number": 12,
+    "name": "Dung beetle",
+    "difficulty": "medium",
+    "description": "Flowers in the colour assigned to the dung beetle have to be collected successively from the lowest to the highest. When a player co- llects the lowest “dung beetle’s flower” he makes the second lowest flower available for all players etc. In a 4-player game there can be only one lace in every “dung beetle‘s flower” as it is only possible to collect the lowest “dung beetle’s flower” which has not been collected yet."
+  },
+  {
+    "number": 13,
+    "name": "Ladybird",
+    "difficulty": "easy",
+    "description": "To start collecting flowers in the colour assigned to the ladybird, you first have to collect at least one flower with five petals. The player who collects a five-petal flower gains access to all “ladybird’s flowers” at once. It is not possible to collect a five-petal flower corresponding to the “ladybird’s colour” until you have a five-petal flower in a different colour."
+  },
+  {
+    "number": 14,
+    "name": "Leaf beetle",
+    "difficulty": "medium",
+    "description": "By collecting a flower in the colour assigned to the leaf beetle, you forbid yourself to collect flowers with a lower number of petals than this one. You can still collect flowers with the same number of petals. For example, once you have collected a six-petal flower in the  “leaf beetle colour”, you can’t collect any four-petal or five-petal flower."
+  },
+  {
+    "number": 15,
+    "name": "Stag beetle",
+    "difficulty": "medium",
+    "description": "A stag beetle makes sure that there are never more flowers collected in his colour than the total number of collected five-petal flowers. A player who collects a five-petal flower makes possible to collect a single flower in the colour assigned to the stag beetle. However, once somebody collects that one “stag beetle’s flower” you must wait for another five-petal flower before collecting another one. The restriction applies to the “stag beetle’s five-petal flower” as well. To collect it, there must be more five-petal flowers collected at the given moment than “the stag beetle’s flowers”. However, as it is also a five-petal flower, by collecting it you make another “stag beetle’s flower” available."
+  },
+  {
+    "number": 16,
+    "name": "Carabus",
+    "difficulty": "medium",
+    "description": "The flowers in the colour assigned to carabus become available to you depending on flowers your opponents collect. You can collect the “carabus’s flowers” only if another player has already collected a flower with the same number of petals. In a 4-player game it is enough if at least one player collects the flower to make the corresponding „carabus‘s flower“ accessible for the other players. From this time there can be two laces in the given “carabus’s flower”. For example, by collecting any six-petal flower you make the six-petal “carabus’s flower” accessible to all opponents. However you can’t collect it, until another player also collects some six-petal flower."
+  },
+  {
+    "number": 17,
+    "name": "Firefly",
+    "difficulty": "easy",
+    "description": "At the beginning of the game you can´t collect flowers in the colour assigned to the firefly. They become accessible only once all flowers of at least one colour are collected. To make “the firefly’s flowers” accessible in a 4-player game there must be at least one lace in all flowers of one colour."
+  },
+  {
+    "number": 18,
+    "name": "Longicorn",
+    "difficulty": "easy",
+    "description": "You can collect flowers in the colour assigned to the longicorn only by passing the lace through from the top of the game board. In turns when you are supposed to pass the lace from the bottom, including your first turn, you can´t collect “longicorn’s flowers”."
+  },
+  {
+    "number": 19,
+    "name": "Rose chafer",
+    "difficulty": "medium",
+    "description": "You must first make the flowers in the colour assigned to the rose chafer accessible to you by collecting other flowers with the same number of petals. For example, to collect an eight-petal “rose chafer’s flower” you first have to collect an eight-petal flower in another colour."
+  },
+  {
+    "number": 20,
+    "name": "Cricket",
+    "difficulty": "medium",
+    "description": "The first flower after the “cricket’s flower” can be of any colour but the second one has to be a “cricket’s one” again. You will probably want to take a flower in the colour assigned to the cricket only towards the end of the game. This is because after collecting it, you immediately collect another two flowers and the game ends for you. Even if you still have a lace. It means you make a last triple move. When collecting the last two flowers you still have to respect the effect of other animals. It is also possible that by taking the first flower, you make the second one inaccessible. In exceptional cases there can be no more “cricket’s flowers” available or accessible due to the effect of another animal. In that case you can´t collect another one and the game ends for you. Even if the first collected flower was a ”grasshopper‘s” or  ”locust’s  one”,  the  game  ends  for  you  immediately  after  collecting  the  second flower. Moreover, if you collect a “grasshopper’s flower”, the second “cricket’s flower” must be already occupied by another lace to be able to take it."
+  },
+  {
+    "number": 21,
+    "name": "Grasshopper",
+    "difficulty": "easy",
+    "description": "After collecting a flower in the colour assigned to the grasshopper, you play basically once again, but you can´t immediately collect another “grasshopper’s flower”. In this way you can play no more than two times in a row."
+  },
+  {
+    "number": 22,
+    "name": "Locust",
+    "difficulty": "medium",
+    "description": "When you collect a flower in the colour assigned to the locust, immediately collect one more flower already containing another player’s lace. In this way two laces get into one flower as in a 4-player game. However it still applies that laces have to be different which means that you can´t collect one flower twice. A flower with two laces can´t be collected anymore. If the collected flower is also a “locust’s one”, this effect trigers again. In this way you can collect more flowers at once in the same turn."
+  },
+  {
+    "number": 23,
+    "name": "Garden spider",
+    "difficulty": "medium",
+    "description": "When it is your turn and the last flower you collected is in the colour assigned to the garden spider, you must collect only a flower already containing another player’s lace. In this way there will be two different laces in that flower. Nobody can collect flowers which already contain two laces. In a 4-player game two different players can collect every flower even without a garden spider. It still applies that if the last flower you collected was the “garden spider’s flower“, in your next turn you can collect only a flower already containing another player’s lace."
+  },
+  {
+    "number": 24,
+    "name": "Harvestman",
+    "difficulty": "medium",
+    "description": "A harvestmen allows you to collect only a five-pe- tal flower in your next turn, but at the same time it exceptionally allows you to collect it even if there is somebody else’s lace in it. However, if there are already two laces in it, you can´t collect it even with a harvestman. If you collect the “harvestman’s five-petal flower”, you can collect only another five-petal flower in your next turn."
+  },
+  {
+    "number": 25,
+    "name": "Tarantula",
+    "difficulty": "hard",
+    "description": "By collecting a flower in the colour assigned to the tarantula, you are restricted to collect only flowers with another player’s lace. This restriction applies until another player collects a “tarantula’s flower” too. In this case return to collecting unoccupied flowers while your opponent can collect only the ones with a lace in them. Even though the tarantula makes you to collect flowers which already contain a lace, there can´t be more than two laces at once in any flower. In a 4-player game a single flower can be collected by two different players even without a tarantula. It still applies that if you have a “tarantula’s card” in front of you, you can collect only flowers already containing another player’s lace."
+  },
+  {
+    "number": 26,
+    "name": "Mosquito",
+    "difficulty": "hard",
+    "description": "When you collect a flower in the colour assigned to the mosquito, all other players must pull out their lace one by one until they reach a flower in the same colour or with the same number of petals as “the mosquito’s flower” you have just collected. Sometimes a player does not lose any flower, while other times he can loose several flowers at once. It is even possible that a player has to pull out the whole lace. In this case he can start from any accesible flower in his next turn and passes the lace through the flower from the bottom just like in the beginning of the game. If a player loses a flower due to the mosquito, possible effects and restriction of this flower cease to apply. It applies mostly to effects related to your last collected flower and effects valid as long as you have a particular flower. The effects triggered by collecting a flower can be triggered once more when loosing the flower and collecting it once again in further turns. Due to effects of some animals you place their card in front of you and it remains there even if you lose the flower which caused it."
+  },
+  {
+    "number": 27,
+    "name": "Fly",
+    "difficulty": "hard",
+    "description": "By collecting a flower in the colour assigned to the fly, you lose the flower you collected before it. First you decide which “fly’s flower” you want to collect (you must be able to reach it with your lace and meet all conditions for collecting it) then pull the lace out of the flower you collected the last and only then collect the selected flower. If a player loses a flower due to the fly, the possible effects and restrictions of this flower cease to apply. The effects triggered by collecting a flower can be triggered once more when loosing the flower and collecting it once again in further turns. Due to effects of some animals you place their card in front of you and it remains there even if you lose the flower which caused it."
+  },
+  {
+    "number": 28,
+    "name": "Snail",
+    "difficulty": "medium",
+    "description": "Collecting a flower in the colour assigned to the snail usually means that you skip your next turn. Only if another player collects a “snail’s flower” before your turn and takes the card from you, you can continue as usual."
+  },
+  {
+    "number": 29,
+    "name": "Dragonfly",
+    "difficulty": "medium",
+    "description": "When it is your turn and the last flower you collected is in the colour assigned to the dragonfly, you can collect only a flower in a colour you don‘t have yet. This restriction applies only to the one flower immediately following the “dragonfly’s flower”, next flowers are not effected. The game can end for you after taking this flower, in case you have already collected flowers in all colours. If you have to pull the lace out of the “dragonfly’s flower” before your turn due to the effect of another animal, you take your turn without restrictions."
+  },
+  {
+    "number": 30,
+    "name": "Stick insect",
+    "difficulty": "medium",
+    "description": "Stick insect requires a small preparation before the game. Take a lace nobody is playing with and draw one more colour from the remaining ones different from the “stick insect‘s colour” and from those which already have an animal assigned. Pass the lace through all flowers in this colour. Start with the flower with the highest number of petals and continue step by step to the lowest. As the stick insect uses an extra lace and colour, you can play with it in maximum of three players and with maximum of four animals. When somebody collects a flower in the “stick insect´s colour”, he has to pull the “stick insect‘s lace” from its last flower. In this way the flower with the lowest number of petals becomes accessible first. By collecting more “stick insect’s flowers” you make flowers with a higher number of petals accessible. In order to make the flower with the highest number of petals accessible, all four “stick insect’s flowers” have to be collected first. Some animals allow you to collect flowers already containing a lace. In this way you can collect a flower which still contains the “stick insect’s lace”."
+  },
+  {
+    "number": 31,
+    "name": "Earthworm",
+    "difficulty": "hard",
+    "description": "Thanks to an earthworm you can use both ends of your lace. If you collect a flower in the colour assigned to the earthworm, from now on you play with the other end of your lace even if you have to pull the lace out of the flower assigned to the earthworm due to another animal‘s effect. You pass the lace through the first flower collected by the other end of the lace from the bottom of the game board. In this way you can start in any accessible flower, but make sure that the knot remains under the flower you collected first. Later, if you collect another “earthworm‘s flower” from the top, you have to “switch over” to the initial end of the lace again. Note that you switch the lace over only when passing a lace through the “earthworm‘s flower” from the top. If you collect it from the bottom, continue with the same end of the lace. When pulling flowers out due to some animals, you pull only the end of the lace you currently play with, so you can’t pull out the lace behind the knot. If you are confused about which end of the lace you currently play with, you can make a temporary knot on the other end of the lace. If you play with an earthworm in three players, start with the longer end of the laces as if playing in 2 or 4 players."
+  }
+]
