@@ -16,4 +16,7 @@ jobs:
         command: npm run build
     - run:
         name: deploy
-        command: npm run deploy
+        command: |
+          git config user.name 'CircleCI'
+          git config user.email 'circleci@noemail'
+          npm run deploy
