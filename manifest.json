@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "SoaS Setup",
+  "name": "Spring on a String - Card Setup",
   "icons": [
     {
       "src": "favicon.ico",
